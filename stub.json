@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create a login UI in javascript that grabs a users username and email, and creates a UUID and stores it as a cookie. Make sure I can add it to other code.","md5":"d6296bca4ffb2c15894371c25c6efe0c"}]}
